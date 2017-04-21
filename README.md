@@ -33,6 +33,6 @@ styleiOS9_10的代码参考于 https://github.com/zqpmaster/MXCardLayout
 由于pan手势不能自定义translation的反馈比例(速度比),所以我把collectionView的pan手势替换了,如果collectionView要setCollectionViewLayout的话最好运行一下这个方法
 layout.restroeOriginalPanGesture;
 
-同上,setCollectionViewLayout时的动画会异常,但我测试了其他人的layout也会异常,所以可能是苹果重构了UICollectionview后的bug(期望是,因为为找不到原因)
+同上,setCollectionViewLayout时的动画会异常,但我测试了其他人的layout也会异常,所以可能是苹果重构了UICollectionview后的bug(期望是,因为我找不到原因…)
 
 自定义itemSize最好不要小于屏幕的一半大小,MXCardLayout的算法有点问题,cell会直接消失
