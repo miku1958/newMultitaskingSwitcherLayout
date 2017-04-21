@@ -21,6 +21,6 @@ typedef NS_ENUM(NSInteger, multitaskingSwitcherStyle) {
 @property (nonatomic,assign) multitaskingSwitcherStyle style;
 @property (nonatomic,assign)BOOL scrollToRightWhenShow;
 /** collectionView如果要setCollectionViewLayout的话最好运行一下这个方法*/
-- (void)restroeOriginalPanGesture;
+- (void)restoreOriginalPanGesture;
 - (UICollectionViewLayoutAttributes *)newlayoutAttributesForItemAtIndexPath:(NSIndexPath *)indexPath;
 @end

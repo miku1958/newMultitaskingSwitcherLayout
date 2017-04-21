@@ -40,7 +40,7 @@
 
 
 @implementation newMultitaskingSwitcherLayout
--(void)restroeOriginalPanGesture{
+-(void)restoreOriginalPanGesture{
 	if (oriPan == nil) {
 		return;
 	}
