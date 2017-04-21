@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8B1C871F401B5D34E32DBBD13ECAE507EA92F873",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8B1C871F401B5D34E32DBBD13ECAE507EA92F873" : 9223372036854775807,
+    "6700C32F205C9327F1A3AF74942DD273BA186CF4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5AC14C12-8907-43DB-BB76-08BF76737363",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8B1C871F401B5D34E32DBBD13ECAE507EA92F873" : "newMultitaskingSwitcherLayout\/",
+    "6700C32F205C9327F1A3AF74942DD273BA186CF4" : "OC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "backgroundLayout",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "backgroundLayout.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/192.168.1.119:29418\/OC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6700C32F205C9327F1A3AF74942DD273BA186CF4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miku1958\/newMultitaskingSwitcherLayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B1C871F401B5D34E32DBBD13ECAE507EA92F873"
+    }
+  ]
+}
