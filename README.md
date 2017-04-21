@@ -13,13 +13,15 @@ newMultitaskingSwitcherLayout *layout = [[newMultitaskingSwitcherLayout alloc]in
 
 layout.style = styleiOS8;
 
-
+![image](https://github.com/miku1958/newMultitaskingSwitcherLayout/blob/master/截图/8.gif?raw=true)
 
 styleiOS9_10
 
-
+![image](https://github.com/miku1958/newMultitaskingSwitcherLayout/blob/master/截图/910.gif?raw=true)
 
 styleiOS10LessMotion
+
+![image](https://github.com/miku1958/newMultitaskingSwitcherLayout/blob/master/截图/10l.gif?raw=true)
 
 
 
